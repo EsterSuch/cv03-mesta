@@ -1,0 +1,10 @@
+.city {
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+}
+
+.city__photo img {
+  max-width: 200px;
+}
